@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercender",
+        "uuid": 9732411,
+        "checksum": "l2ohck"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
